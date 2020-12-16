@@ -351,8 +351,6 @@ ASimulatoR:
     `data.table` produced by `create_splicing_variants_and_annotation`
     to determine exon and intron coverage.
 
-#### Technical Biases
-
 These parameters are used by the `simulate_experiment` from the polyester
 R package to introduce technical biases.
 
