@@ -266,7 +266,7 @@ event_anno[grepl(gene_id, event_anno$template) | grepl(gene_id, event_anno$varia
 
 ### Description
 
-Here we describe im more detail the parameters that can be given to this function and give the user a full control over the simulation.
+Here we describe in more detail the parameters that can be passed to this function for a better control over the simulation.
 
 ### Usage
 
