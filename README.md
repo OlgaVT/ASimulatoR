@@ -49,7 +49,7 @@ and simply `restore` our [lockfile](renv.lock).
 The input directory should contain a gtf/gff3 genome annotation file and one fasta file per chromosome (e.g. derived from the [Ensembl ftp
 server](https://www.ensembl.org/info/data/ftp/index.html)). 
 
-ASimulatoR accepts any gtf/gff3 genome aannotation and chromosome fasta files independent of the organism.
+ASimulatoR accepts any gtf/gff3 genome annotation and chromosome fasta files independent of the organism.
 
 ### Quick start
 
